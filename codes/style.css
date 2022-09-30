@@ -1,0 +1,121 @@
+/* top section */
+#top{
+  background-color: #C7F2A4;
+  padding: 2% 10% 0%;
+  text-align: center;
+  line-height: 1.5;
+  color: #967E76;
+}
+/* all sections color */
+section{
+    color: #967E76;
+}
+h1{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  color: #967E76;
+
+}
+
+h2{
+  font-family: "Montserrat";
+}
+
+p{
+  font-family: "Montserrat";
+}
+/* navigation */
+ .navbar{
+   padding-bottom: 2%;
+ }
+
+.nav-item{
+  font-family: Montserrat;
+  color: #967E76;
+}
+/* Profile section */
+#header{
+  margin: 0% 5% 0%;
+  text-align: center;
+}
+.profile{
+  padding-top: 5%;
+  padding-bottom: 1%;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.profile_pic{
+  border-radius: 100%;
+}
+.col-top{
+  padding-top: 8%;
+}
+.icon{
+  margin: 5%;
+  padding: 2%;
+}
+
+/* education section */
+#education{
+    text-align: center;
+    padding: 2% 5% 2%;
+    background-color: #B6E388;
+    color: #967E76;
+}
+.education-img{
+  margin: 2%;
+  width: 10%;
+}
+
+/* technicalskills  */
+#technical-skills{
+  margin: 2% 10% 0%;
+}
+
+
+.card-body{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+/* project section */
+#project{
+  text-align: center;
+  background-color: #E1FFB1;
+    color: #967E76;
+  /* padding: 2% 10% 2%; */
+}
+.project{
+  padding: 2% 15% 2%;
+}
+/* exp section */
+#experiences{
+  padding: 2% 5% 2%;
+}
+
+.left{
+  border: 1px solid black;
+  margin:3px;
+  padding: 5px;
+}
+.right1{
+  border: 1px solid black;
+  margin:3px;
+  padding: 5px;
+}
+.right2{
+  border: 1px solid black;
+  margin:3px;
+  padding: 5px;
+}
+
+/* footer */
+
+#footer{
+  text-align: center;
+  background-color: #C7F2A4;
+}
+.Contact{
+  padding: 3%;
+  color: #967E76;
+}

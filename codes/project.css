@@ -1,0 +1,57 @@
+
+/* landing page  */
+/* navigation */
+.navi{
+   margin: 0% 5% 0%;
+}
+/* side bar */
+#side-navigation{
+  display: inline;
+  float: left;
+  height: 92rem;
+  padding: 3%;
+  color: black;
+}
+
+
+
+.change-color:hover{
+  background-color: #38E54D;
+  font-size: 18px;
+}
+.change-color2:hover{
+  background-color: #9CFF2E;
+  font-size: 13px;
+}
+
+
+/* project1 */
+#project1{
+  margin: 2% 10% 0%;
+  text-align: left;
+  line-height: 1.5;
+  color: black;
+}
+.project1{
+  padding:0% 5% 0%;
+  line-height: 1.2;
+}
+
+.project2{
+  padding:3% 5% 0%;
+  line-height: 1.2;
+}
+
+.project3{
+  padding:3% 5% 0%;
+  line-height: 1.2;
+}
+
+#footer{
+  text-align: center;
+  background-color: #C7F2A4;
+}
+.Contact{
+  padding: 3%;
+  color: #967E76;
+}
