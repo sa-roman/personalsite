@@ -123,7 +123,7 @@ p{
   color: #967E76;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (max-width: 500px) {
   #top{
     display: none;
   }
