@@ -88,6 +88,9 @@ p{
 .project{
   padding: 2% 15% 2%;
 }
+.proj{
+  height:20rem;
+}
 /* exp section */
 #experiences{
   padding: 2% 5% 2%;
@@ -118,4 +121,14 @@ p{
 .Contact{
   padding: 3%;
   color: #967E76;
+}
+
+@media screen and (min-width: 500px) {
+  #top{
+    display: none;
+  }
+  .project{
+    margin: 30px;
+  }
+
 }

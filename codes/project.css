@@ -28,6 +28,7 @@
 /* project1 */
 #project1{
   margin: 2% 10% 0%;
+  margin-left: 230px;
   text-align: left;
   line-height: 1.5;
   color: black;
@@ -54,4 +55,16 @@
 .Contact{
   padding: 3%;
   color: #967E76;
+}
+
+@media (max-width: 900px) {
+#side-navigation{
+  display: none;
+}
+  #project1{
+    margin-left: 10%;
+  }
+  #top{
+    display:none;
+  }
 }
